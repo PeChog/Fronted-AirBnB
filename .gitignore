@@ -1,4 +1,4 @@
-node_modules/**/*
+node_modules
 .expo/*
 npm-debug.*
 *.jks
@@ -16,3 +16,4 @@ web-report/
 
 yarn.lock
 package-lock.json
+.env
